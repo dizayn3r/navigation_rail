@@ -61,7 +61,7 @@ The visual properties of the icon in the unselected destination.
 # Item 2
 # Item 3
     Item 3a
-    [unselectedLabelTextStyle](https://api.flutter.dev/flutter/material/NavigationRail/unselectedLabelTextStyle.html) → TextStyle
+   -unselectedLabelTextStyle → TextStyle
     The TextStyle of a destination's label when it is unselected.
   
 # Flutter project:
