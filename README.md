@@ -10,10 +10,10 @@ Adaptive layouts can build different instances of the Scaffold in order to have 
 
 ## Properties:
 
-### [backgroundColor](https://api.flutter.dev/flutter/material/NavigationRail/backgroundColor.html) → Color
+#### [backgroundColor](https://api.flutter.dev/flutter/material/NavigationRail/backgroundColor.html) → Color
 Sets the color of the Container that holds all of the NavigationRail's contents.
 
-### [destinations](https://api.flutter.dev/flutter/material/NavigationRail/destinations.html) → List<NavigationRailDestination>
+##### [destinations](https://api.flutter.dev/flutter/material/NavigationRail/destinations.html) → List<NavigationRailDestination>
 Defines the appearance of the button items that are arrayed within the navigation rail.
 
 ### [elevation](https://api.flutter.dev/flutter/material/NavigationRail/elevation.html) → double
@@ -46,16 +46,16 @@ The visual properties of the icon in the selected destination.
 ### selectedIndex → int
 The index into destinations for the current selected NavigationRailDestination.
 
-### [selectedLabelTextStyle] → TextStyle(https://api.flutter.dev/flutter/material/NavigationRail/selectedLabelTextStyle.html)
+### [selectedLabelTextStyle](https://api.flutter.dev/flutter/material/NavigationRail/selectedLabelTextStyle.html) → TextStyle
 The TextStyle of a destination's label when it is selected.
 
-### [trailing] → Widget(https://api.flutter.dev/flutter/material/NavigationRail/trailing.html)
+### [trailing](https://api.flutter.dev/flutter/material/NavigationRail/trailing.html) → Widget
 The trailing widget in the rail that is placed below the destinations.
 
-### [unselectedIconTheme] → IconThemeData(https://api.flutter.dev/flutter/material/NavigationRail/unselectedIconTheme.html)
+### [unselectedIconTheme](https://api.flutter.dev/flutter/material/NavigationRail/unselectedIconTheme.html) → IconThemeData
 The visual properties of the icon in the unselected destination.
 
-### [unselectedLabelTextStyle] → TextStyle(https://api.flutter.dev/flutter/material/NavigationRail/unselectedLabelTextStyle.html)
+### [unselectedLabelTextStyle](https://api.flutter.dev/flutter/material/NavigationRail/unselectedLabelTextStyle.html) → TextStyle
 The TextStyle of a destination's label when it is unselected.
 
   
