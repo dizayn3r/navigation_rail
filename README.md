@@ -8,7 +8,7 @@ The appearance of all of the NavigationRails within an app can be specified with
 
 Adaptive layouts can build different instances of the Scaffold in order to have a navigation rail for more horizontal layouts and a bottom navigation bar for more vertical layouts.
 
-## Properties:
+# Properties:
 
 ### [backgroundColor](https://api.flutter.dev/flutter/material/NavigationRail/backgroundColor.html) → Color
 Sets the color of the Container that holds all of the NavigationRail's contents.
@@ -59,6 +59,6 @@ The visual properties of the icon in the unselected destination.
 The TextStyle of a destination's label when it is unselected.
 
   
-### Flutter project:
+# Flutter project:
 
 - [Navigation Rail](https://api.flutter.dev/flutter/material/NavigationRail-class.html)
