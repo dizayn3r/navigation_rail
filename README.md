@@ -55,14 +55,14 @@ The trailing widget in the rail that is placed below the destinations.
 ## [unselectedIconTheme](https://api.flutter.dev/flutter/material/NavigationRail/unselectedIconTheme.html) → IconThemeData
 The visual properties of the icon in the unselected destination.
 
-## [unselectedLabelTextStyle](https://api.flutter.dev/flutter/material/NavigationRail/unselectedLabelTextStyle.html) → TextStyle
-The TextStyle of a destination's label when it is unselected.
+## 
 
 # Item 1
 # Item 2
 # Item 3
     Item 3a
-    Item 3b
+    [unselectedLabelTextStyle](https://api.flutter.dev/flutter/material/NavigationRail/unselectedLabelTextStyle.html) → TextStyle
+    The TextStyle of a destination's label when it is unselected.
   
 # Flutter project:
 
