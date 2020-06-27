@@ -10,10 +10,10 @@ Adaptive layouts can build different instances of the Scaffold in order to have 
 
 ## Properties:
 
-#### [backgroundColor](https://api.flutter.dev/flutter/material/NavigationRail/backgroundColor.html) → Color
+### [backgroundColor](https://api.flutter.dev/flutter/material/NavigationRail/backgroundColor.html) → Color
 Sets the color of the Container that holds all of the NavigationRail's contents.
 
-##### [destinations](https://api.flutter.dev/flutter/material/NavigationRail/destinations.html) → List<NavigationRailDestination>
+### [destinations](https://api.flutter.dev/flutter/material/NavigationRail/destinations.html) → List<NavigationRailDestination>
 Defines the appearance of the button items that are arrayed within the navigation rail.
 
 ### [elevation](https://api.flutter.dev/flutter/material/NavigationRail/elevation.html) → double
@@ -59,6 +59,6 @@ The visual properties of the icon in the unselected destination.
 The TextStyle of a destination's label when it is unselected.
 
   
-Flutter project:
+### Flutter project:
 
 - [Navigation Rail](https://api.flutter.dev/flutter/material/NavigationRail-class.html)
