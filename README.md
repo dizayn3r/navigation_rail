@@ -11,52 +11,52 @@ Adaptive layouts can build different instances of the Scaffold in order to have 
 ## Properties:
 
 ### backgroundColor → Color
-Sets the color of the Container that holds all of the NavigationRail's contents.
+Sets the color of the Container that holds all of the NavigationRail's contents.[https://api.flutter.dev/flutter/material/NavigationRail/backgroundColor.html]
 
 ### destinations → List<NavigationRailDestination>
-Defines the appearance of the button items that are arrayed within the navigation rail.
+Defines the appearance of the button items that are arrayed within the navigation rail.[https://api.flutter.dev/flutter/material/NavigationRail/destinations.html]
 
 ### elevation → double
-The rail's elevation or z-coordinate.
+The rail's elevation or z-coordinate.[https://api.flutter.dev/flutter/material/NavigationRail/elevation.html]
 
 ### extended → bool
-Indicates that the NavigationRail should be in the extended state.
+Indicates that the NavigationRail should be in the extended state.[https://api.flutter.dev/flutter/material/NavigationRail/extended.html]
 
 ### groupAlignment → double
-The vertical alignment for the group of destinations within the rail.
+The vertical alignment for the group of destinations within the rail.[https://api.flutter.dev/flutter/material/NavigationRail/groupAlignment.html]
 
 ### labelType → NavigationRailLabelType
-Defines the layout and behavior of the labels for the default, unextended NavigationRail.
+Defines the layout and behavior of the labels for the default, unextended NavigationRail.[https://api.flutter.dev/flutter/material/NavigationRail/labelType.html]
 
 ### leading → Widget
-The leading widget in the rail that is placed above the destinations.
+The leading widget in the rail that is placed above the destinations.[https://api.flutter.dev/flutter/material/NavigationRail/leading.html]
 
 ### minExtendedWidth → double
-The final width when the animation is complete for setting extended to true.
+The final width when the animation is complete for setting extended to true.[https://api.flutter.dev/flutter/material/NavigationRail/minExtendedWidth.html]
 
 ### minWidth → double
-The smallest possible width for the rail regardless of the destination's icon or label size.
+The smallest possible width for the rail regardless of the destination's icon or label size.[https://api.flutter.dev/flutter/material/NavigationRail/minWidth.html]
 
 ### onDestinationSelected → ValueChanged<int>
-Called when one of the destinations is selected.
+Called when one of the destinations is selected.[https://api.flutter.dev/flutter/material/NavigationRail/onDestinationSelected.html]
 
 ### selectedIconTheme → IconThemeData
-The visual properties of the icon in the selected destination.
+The visual properties of the icon in the selected destination.[https://api.flutter.dev/flutter/material/NavigationRail/selectedIconTheme.html]
 
 ### selectedIndex → int
 The index into destinations for the current selected NavigationRailDestination.
 
 ### selectedLabelTextStyle → TextStyle
-The TextStyle of a destination's label when it is selected.
+The TextStyle of a destination's label when it is selected.[https://api.flutter.dev/flutter/material/NavigationRail/selectedLabelTextStyle.html]
 
 ### trailing → Widget
-The trailing widget in the rail that is placed below the destinations.
+The trailing widget in the rail that is placed below the destinations.[https://api.flutter.dev/flutter/material/NavigationRail/trailing.html]
 
 ### unselectedIconTheme → IconThemeData
-The visual properties of the icon in the unselected destination.
+The visual properties of the icon in the unselected destination.[https://api.flutter.dev/flutter/material/NavigationRail/unselectedIconTheme.html]
 
 ### unselectedLabelTextStyle → TextStyle
-The TextStyle of a destination's label when it is unselected.
+The TextStyle of a destination's label when it is unselected.[https://api.flutter.dev/flutter/material/NavigationRail/unselectedLabelTextStyle.html]
 
   
 Flutter project:
